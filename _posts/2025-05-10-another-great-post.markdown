@@ -13,4 +13,4 @@ Did you know Hippos are known for being one of the most dangerous animals in Afr
 
 Elephants on the other hand are the only mammals that can't jump! It's true! They are also known for their incredible memory and strong social bonds.
 
-I don't know anything about Yaks.
+I don't know anything about Anteaters.
