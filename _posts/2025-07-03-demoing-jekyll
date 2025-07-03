@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "Look another Jekyll Post!"
-date:   2025-07-03 12:34:56 +0100
-tags: facts, animals, trivia
+title:  "Welcome to Life!"
+date:   2025-06-27 12:35:26 +0100
+tags: dance, jive, groove
 authors:
-  - Tom Couch
+  - Dr Spock
+  - Captain Kirk
 img:
-  url: /assets/images/hippo.jpg
+  url: /assets/images/sign-post.jpg
 ---
-
-Lorem ipsum dolor.. etc.
-
-Goodbye!
-
+Hello world!
